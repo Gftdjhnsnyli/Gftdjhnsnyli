@@ -4,8 +4,8 @@
 I'm a developer passionate about building meaningful applications. I enjoy working with modern technologies and creating solutions that make a real impact.
 
 ## 🛠️ Skills & Technologies
-- **Languages:** Java, and more
-- **Development:** Application development, software design
+- **Languages:** Java, xml, c++ and javascript
+- **Development:** Application development, software design, website design
 - **Tools & Platforms:** GitHub, collaborative development
 
 ## 📚 Recent Projects
@@ -17,6 +17,7 @@ A news reading application currently in maintenance. Built with Java to provide 
 - Maintaining and improving the NewsReaderApp project
 - Expanding my development skills
 - Contributing to open-source projects
+- levelling up my knowledge
 
 ## 📊 GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Gftdjhnsnyli&show_icons=true&theme=default)
