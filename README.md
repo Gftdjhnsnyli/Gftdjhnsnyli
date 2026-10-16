@@ -4,6 +4,10 @@
 
 ### Computer Engineering Student | Android and Web Developer
 
+[![Portfolio](https://img.shields.io/badge/Portfolio-Live-2563eb?style=flat-square&logo=githubpages)](https://gftdjhnsnyli.github.io/)
+
+🌐 **Portfolio:** https://gftdjhnsnyli.github.io/ — projects, skills, and contact.
+
 Building practical software, exploring intelligent systems, and learning how technology solves real-world problems.
 
 [![Profile views](https://komarev.com/ghpvc/?username=Gftdjhnsnyli&color=2563eb&style=flat-square)](https://github.com/Gftdjhnsnyli)
