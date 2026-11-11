@@ -1,69 +1,110 @@
-<div align="center">
 
-# Innocent John Nyali
+<p align="center">
+  <a href="https://github.com/Gftdjhnsnyli">
+    <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=2ea043&fontSize=54&height=90&width=506&text=Hi%2C%20it's%20Inno" alt="Hi, it's Inno" />
+  </a>
+</p>
 
-### Computer Engineering Student | Android and Web Developer
+<h1 align="center">Innocent John Nyali</h1>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Live-2563eb?style=flat-square&logo=githubpages)](https://gftdjhnsnyli.github.io/)
+<h3 align="center">Computer Engineering Student | Android and Web Developer</h3>
 
-🌐 **Portfolio:** https://gftdjhnsnyli.github.io/ — projects, skills, and contact.
+<p align="center">
+  <a href="https://gftdjhnsnyli.github.io/">
+    <img src="https://img.shields.io/badge/Portfolio-Live-2ea043?style=flat-square&logo=githubpages" alt="Portfolio" />
+  </a>
+  <a href="https://github.com/Gftdjhnsnyli">
+    <img src="https://komarev.com/ghpvc/?username=Gftdjhnsnyli&color=2ea043&style=flat-square" alt="Profile views" />
+  </a>
+</p>
 
-Building practical software, exploring intelligent systems, and learning how technology solves real-world problems.
+<p align="center">
+  Building practical software, exploring intelligent systems, and learning how technology solves real-world problems.
+</p>
 
-[![Profile views](https://komarev.com/ghpvc/?username=Gftdjhnsnyli&color=2563eb&style=flat-square)](https://github.com/Gftdjhnsnyli)
+<p align="center">
+  🌐 <strong>Portfolio:</strong>
+  <a href="https://gftdjhnsnyli.github.io/">gftdjhnsnyli.github.io</a>
+</p>
 
-</div>
+---
 
-## About Me
+## 👨‍💻 About Me
 
-I am pursuing a **Bachelor of Engineering in Computer Engineering** at the Dar es Salaam Institute of Technology, with graduation expected in **November 2027**.
+I am pursuing a **Bachelor of Engineering in Computer Engineering** at the **Dar es Salaam Institute of Technology (DIT)**, with graduation expected in **November 2027**.
 
-- I build Android applications with Java, XML, and Android Studio.
-- I work with web, backend, database, networking, and AI technologies.
-- I have practical ICT experience from industrial training at TASAC and TANESCO.
-- I enjoy troubleshooting, learning new tools, and turning ideas into working applications.
-- I am based in Dar es Salaam, Tanzania.
+- 📱 I build Android applications using Java, XML, and Android Studio.
+- 🌐 I work with web development, backend systems, databases, networking, and AI technologies.
+- 🛠️ I have practical ICT experience from industrial training at TASAC and TANESCO.
+- 💡 I enjoy troubleshooting, exploring new technologies, and turning ideas into working applications.
+- 📍 Based in Dar es Salaam, Tanzania.
 
-## Technical Toolkit
+## 🛠️ Technical Toolkit
 
 | Area | Technologies |
 | --- | --- |
 | Languages | Java, JavaScript, Python |
-| Mobile | Android Studio, Java, XML |
-| Web and backend | Next.js, Node.js, Spring, HTML, CSS |
+| Mobile Development | Android Studio, Java, XML |
+| Web & Backend | Next.js, Node.js, Spring, HTML, CSS |
 | Databases | PostgreSQL, Oracle Database |
-| Networking | Wireshark, LAN configuration, network troubleshooting |
+| Networking | Wireshark, LAN Configuration, Network Troubleshooting |
 | Tools | Git, GitHub, Microsoft Excel, Google Docs |
 
-## Selected Projects
+## 🚀 Selected Projects
 
 ### [NewsReaderApp](https://github.com/Gftdjhnsnyli/NewsReaderApp)
 
-A Java-based Android application that gives users a convenient way to browse and read news content.
+A Java-based Android application that provides users with a convenient way to browse and read news content.
 
 ### [Communication App](https://github.com/Gftdjhnsnyli/communicationapp)
 
-A native Java and XML Android application exploring SMS conversations, contacts, and phone-call handling through Android communication APIs.
+A native Android application developed using Java and XML, exploring SMS conversations, contacts, and phone-call handling through Android communication APIs.
 
 ### Facial Emotion Recognition
 
-An AI project designed to detect human emotions from facial expressions. The source code is maintained in a private repository.
+An AI project designed to detect human emotions from facial expressions using computer vision techniques.
 
-## Current Focus
+*Note: The source code is maintained in a private repository.*
 
-- Improving Android application architecture and user experience
-- Building stronger backend and database skills
-- Exploring computer vision and practical AI applications
-- Deepening networking and troubleshooting knowledge
+## 🎯 Current Focus
 
-## GitHub Activity
+- Improving Android application architecture and user experience.
+- Building stronger backend development and database skills.
+- Exploring computer vision and practical AI applications.
+- Deepening networking and troubleshooting knowledge.
+- Developing practical software solutions to real-world problems.
 
-<div align="center">
+## 🤝 Open To
 
-![Innocent's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gftdjhnsnyli&show_icons=true&hide_border=true&title_color=2563eb&icon_color=2563eb&text_color=334155&bg_color=00000000)
+I am open to internships, entry-level opportunities, collaborative projects, and professional conversations involving:
 
-</div>
+- Android Application Development
+- Web Development and Backend Engineering
+- Artificial Intelligence and Computer Vision
+- Computer Networking and Cybersecurity
+- Innovative Software Projects
 
-## Open To
+## 📊 GitHub Stats
 
-I am open to internships, entry-level opportunities, collaborative projects, and conversations about Android development, web technologies, networking, and AI.
+<p align="center">
+  <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api?username=Gftdjhnsnyli&show_icons=true&theme=tokyonight&title_color=2ea043&icon_color=2ea043&hide_border=true&bg_color=00000000&count_private=true" alt="Innocent's GitHub stats" />
+  <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api/top-langs/?username=Gftdjhnsnyli&layout=compact&theme=tokyonight&title_color=2ea043&icon_color=2ea043&hide_border=true&bg_color=00000000&langs_count=8" alt="Top languages" />
+</p>
+
+## 📈 Contribution Graph
+
+<p align="center">
+  <img width="100%" src="https://github-readme-activity-graph-gold-gamma.vercel.app/graph?username=Gftdjhnsnyli&bg_color=00000000&color=2ea043&line=2ea043&point=c9d1d9&area=true&hide_border=true" alt="Contribution graph" />
+</p>
+
+## 💭 Dev Quote
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Developer quote" />
+</p>
+
+---
+
+<p align="center">
+  <i>⭐️ From <a href="https://github.com/Gftdjhnsnyli">Gftdjhnsnyli</a></i>
+</p>
